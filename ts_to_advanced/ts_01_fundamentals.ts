@@ -2,6 +2,7 @@
 // TYPESCRIPT 01: FUNDAMENTALS
 // ==========================================
 // This file covers the core building blocks of TypeScript.
+// New to operators, if/else, loops, or basic syntax? Read ts_00_basics.ts first.
 // Read through the explanations and experiment with the code.
 // TypeScript is a superset of JavaScript that adds static typing.
 
