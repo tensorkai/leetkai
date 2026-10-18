@@ -9,6 +9,11 @@
 // formatProductCode(0) -> "PRODUCT-0"
 
 export function formatProductCode(code: string | number): string {
-    // TODO: Narrow the type and return the formatted product code
-    throw new Error("Not implemented");
+    if (typeof code === "string") {
+        return code.toUpperCase();
+    }
+
+    return `PRODUCT-${code}`;
 }
+
+
