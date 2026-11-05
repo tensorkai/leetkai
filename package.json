@@ -1,0 +1,24 @@
+{
+  "name": "leetkai",
+  "version": "1.0.0",
+  "description": "Welcome to my personal repository for [LeetCode](https://leetcode.com/) solutions!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tensorkai/leetkai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tensorkai/leetkai/issues"
+  },
+  "homepage": "https://github.com/tensorkai/leetkai#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
