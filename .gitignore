@@ -1,0 +1,5 @@
+# Installed dependencies (restore with npm install)
+node_modules/
+
+# Generated TypeScript output
+.leet/
